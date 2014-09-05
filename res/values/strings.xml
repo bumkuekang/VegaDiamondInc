@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VegaDiamondInc</string>
+    <string name="action_settings">Settings</string>
+    <string name="vMainMenu_ContactUs">Contact Us</string>
+    <string name="vMainMenu_DiaList">Diamond List</string>
+    <string name="vMainMenu_MakeAppt">Make Appointment</string>
+    <string name="vMainMenu_AboutVega">About VegaDiamond Inc.</string>
+    <string name="vMainMenu_Setting">Setting</string>
+    
+</resources>

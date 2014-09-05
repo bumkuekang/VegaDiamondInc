@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.vegadiamondinc.MainActivity" >
+
+    <Button
+        android:id="@+id/DiamondListButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vMainMenu_DiaList" />
+
+    <Button
+        android:id="@+id/MakeApptButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vMainMenu_MakeAppt" />
+    
+    <Button
+        android:id="@+id/ContactUsButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vMainMenu_ContactUs" />
+    
+    <Button
+        android:id="@+id/AboutVegaButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vMainMenu_AboutVega" />
+
+    <Button
+        android:id="@+id/SettingButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vMainMenu_Setting" />
+    
+</LinearLayout>
